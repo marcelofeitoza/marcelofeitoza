@@ -14,7 +14,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/marcelofeitoza7" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="marcelofeitoza7" height="44" width="44"/></a>
-<a href="https://instagram.com/m.feitozaa_" target="blank"><img align="center" src="https://img-premium.flaticon.com/png/512/733/733558.png?token=exp=1622513202~hmac=487287790bb470f6dec3231fae223bff" alt="m.feitozaa_" height="44" width="44" /></a>
+<a href="https://instagram.com/m.feitozaa_" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174855.png" alt="m.feitozaa_" height="44" width="44" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
