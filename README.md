@@ -8,6 +8,8 @@
   - 💬 Ask me about **Python, Flask**.
 
   - 📫 How to reach me **feitoza.marcelo7@gmail.com**.
+  
+  - 📖 My resumé/curriculum (English or Portuguese): <a href="https://drive.google.com/drive/folders/1vRBiPghSbBgCBioiUMrm6VmBM9iCA6rr?usp=sharing" target="_blank">Resumé/Curriculum</a>
 
 </h4>
 
