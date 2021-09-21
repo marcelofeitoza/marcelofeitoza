@@ -1,8 +1,10 @@
+<h1 align='center'><a href='https://marcelofeitoza.github.io/portfolio/'>Check out my portfolio!</a></h2>
+
+
 <h1 align="center">Hi 👋, I'm Marcelo Feitoza</h1>
+
 <h3 align="center">A passionate future mobile/full-stack developer from Brazil</h3>
 <h3 align="center">Looking forward for getting my first role as a developer!</h3>
-
-
 
 <h4>
 
