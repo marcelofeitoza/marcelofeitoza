@@ -1,4 +1,4 @@
-<h1 align='center'><a href='https://marcelofeitoza.github.io/portfolio/'>Check out my portfolio!</a></h2>
+[comment]: (<h1 align='center'><a href='https://marcelofeitoza.github.io/portfolio/'>Check out my portfolio!</a></h2>)
 
 
 <h1 align="center">Hi 👋, I'm Marcelo Feitoza</h1>
